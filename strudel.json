@@ -1,0 +1,5 @@
+{
+  "_base": "https://raw.githubusercontent.com/prismograph/departure/main/",
+  "short": "short/*",
+  "breaks": "breaks/*"
+}
