@@ -1,5 +1,23 @@
 {
   "_base": "https://raw.githubusercontent.com/prismograph/departure/main/",
-  "short": "short/*",
-  "breaks": "breaks/*"
+  "short": [
+    "short/_1.wav",
+    "short/_2.wav",
+    "short/_3.wav",
+    "short/_4.wav",
+    "short/_5.wav",
+    "short/_6.wav",
+    "short/_7.wav",
+    "short/_8.wav"
+  ],
+  "breaks": [
+    "breaks/_1.wav",
+    "breaks/_2.wav",
+    "breaks/_3.wav",
+    "breaks/_4.wav",
+    "breaks/_5.wav",
+    "breaks/_6.wav",
+    "breaks/_7.wav",
+    "breaks/_8.wav"
+  ]
 }
