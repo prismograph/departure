@@ -19,5 +19,13 @@
     "breaks/_6.wav",
     "breaks/_7.wav",
     "breaks/_8.wav"
+  ],
+  "bass": [
+    "bass/bass.wav",
+    "bass/bass1.wav",
+    "bass/bass2.wav"
+  ],
+  "pad": [
+    "pad/yamaha_reface_pad.wav"
   ]
 }
